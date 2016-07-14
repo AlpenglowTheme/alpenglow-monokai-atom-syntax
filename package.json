@@ -3,11 +3,12 @@
   "theme": "syntax",
   "author": "Kai Cataldo <kaicataldo@gmail.com>",
   "version": "0.0.4",
-  "description": "A port of the Alpenglow Monokai syntax theme for Atom",
+  "description": "Spiritual successor to @yabatadesign's Afterglow Monokai theme for Atom",
   "keywords": [
     "syntax",
     "theme",
     "afterglow",
+    "alpenglow",
     "monokai"
   ],
   "repository": "https://github.com/AlpenglowTheme/alpenglow-monokai-atom-syntax",
