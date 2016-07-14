@@ -4,5 +4,5 @@ A port of the [Alpenglow Monokai](https://github.com/AlpenglowTheme/alpenglow-th
 
 ## Screenshots
 
-![](https://raw.githubusercontent.com/kaicataldo/alpenglow-monokai-atom-syntax/master/screenshots/alpenglow-monokai-atom-1.png)
-![](https://raw.githubusercontent.com/kaicataldo/alpenglow-monokai-atom-syntax/master/screenshots/alpenglow-monokai-atom-2.png)
+![](https://raw.githubusercontent.com/AlpenglowTheme/alpenglow-monokai-atom-syntax/master/screenshots/alpenglow-monokai-atom-screenshot1.png)
+![](https://raw.githubusercontent.com/AlpenglowTheme/alpenglow-monokai-atom-syntax/master/screenshots/alpenglow-monokai-atom-screenshot2.png)
